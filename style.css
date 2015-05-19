@@ -1,0 +1,16 @@
+/*
+Theme Name: marshallTheme
+Theme URI: http://localhost/marshallTheme
+Author: Innovia- Marshall
+Author URI: http://wordpress.org/
+Description: Simple and elegant theme for your every need
+Version: 1.0
+
+*/
+
+@import url('css/bootstrap.min.css');
+
+
+.panel {
+	margin-bottom: 60px;
+}
